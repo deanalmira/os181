@@ -11,3 +11,13 @@ ZCZC W03 Week03 Demo: done!
 ZCZC W04 Week04 Demo: done!
 
 ZCZC W05 Week05 Demo: done!
+
+ZCZC W02 Week06 Demo: done!
+
+ZCZC W03 Week07 Demo: done!
+
+ZCZC W04 Week08 Demo: done!
+
+ZCZC W05 Week09 Demo: done!
+
+ZCZC W05 Week10 Demo: done!
